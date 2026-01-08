@@ -1,0 +1,46 @@
+{
+    "sample_file": "p and j1.pdf",
+    "invoice_number": "1502",
+    "date": "4/1/26",
+    "vehicle": "KMT GL 225K",
+    "customer": "FIRESIDE GROUP",
+    "line_items": [
+        {
+            "description": "Oil 20 01W-50",
+            "quantity": 4,
+            "total": 550
+        },
+        {
+            "description": "Oil filter",
+            "quantity": 1,
+            "total": 150
+        },
+        {
+            "description": "Chain slider",
+            "quantity": 1,
+            "total": 350
+        },
+        {
+            "description": "Bearing 6004",
+            "quantity": 1,
+            "total": 250
+        },
+        {
+            "description": "Bearing 6202",
+            "quantity": 1,
+            "total": 250
+        },
+        {
+            "description": "Bearing 6302",
+            "quantity": 1,
+            "total": 250
+        },
+        {
+            "description": "Service charge",
+            "quantity": 1,
+            "total": 400
+        }
+    ],
+    "grand_total": 2300,
+    "notes": "Handwritten cash sale receipt - PJ&G BAJAJ format with Qty, Particulars, @, Kshs columns"
+}
